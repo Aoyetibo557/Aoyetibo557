@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**Aoyetibo557/Aoyetibo557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Hi 👋 My name is Anuoluwapo Oyetibo
 ===================================
 
@@ -28,9 +12,6 @@ Recent graduate from the city university of New York, college of Staten Island, 
 * 🧠  I'm learning Tailwind CSS
 * 🤝  I'm open to collaborating on Any full stack applications, web development projects and much more
 * ⚡  I'm secretly Batman ... so don't tell anyone
-
-<a href="https://www.github.com/aoyetibo557" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/aoyetibo557?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 
 ### Skills
 
@@ -86,4 +67,4 @@ src="https://img.shields.io/github/followers/aoyetibo557?logo=github&style=for-t
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/aoyetibo557/thoughts-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aoyetibo557&repo=thoughts-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/aoyetibo557/hulu_clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aoyetibo557&repo=hulu_clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/aoyetibo557/thoughts-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aoyetibo557&repo=thoughts-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/aoyetibo557/Hulu_Clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aoyetibo557&repo=Hulu_Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
