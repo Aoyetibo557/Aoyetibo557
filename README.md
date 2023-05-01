@@ -4,7 +4,7 @@ Hi 👋 My name is Anuoluwapo Oyetibo
 Frontend / Fullstack Developer
 ------------------------------
 
-Recent graduate from the city university of New York, college of Staten Island, with a degree in Computer Science seeking full time employment opportunities. I have both project and internship experience with ReactJs, React Native, NextJs, HTML, CSS, JavaScript, JQuery, Axios, C++, Java, PHP, MySQL, Firebase, MongoDB
+Experienced full stack developer proficient in React, Nextjs, TypeScript, JavaScript, Tailwindcss and other web development technologies. Seeking new opportunities to apply and enhance my skills in a dynamic work environment. 
 
 * 🖥️  See my portfolio at [Anuoluwapo Oyetibo \[Frontend /Fullstack Developer\]](https://anuoluwapo-min-portfolio.vercel.app/home)
 * ✉️  You can contact me at [aoyetibo@gmail.com](mailto:aoyetibo@gmail.com)
