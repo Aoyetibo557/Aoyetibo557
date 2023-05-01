@@ -60,10 +60,3 @@ Recent graduate from the city university of New York, college of Staten Island, 
 
 <a href="https://github.com/aoyetibo557" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoyetibo557&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/aoyetibo557/foody-web-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aoyetibo557&repo=foody-web-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/aoyetibo557/petland" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aoyetibo557&repo=petland&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/aoyetibo557/thoughts-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aoyetibo557&repo=thoughts-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/aoyetibo557/Hulu_Clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aoyetibo557&repo=Hulu_Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
