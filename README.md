@@ -6,8 +6,7 @@ Frontend / Fullstack Developer
 
 Recent graduate from the city university of New York, college of Staten Island, with a degree in Computer Science seeking full time employment opportunities. I have both project and internship experience with ReactJs, React Native, NextJs, HTML, CSS, JavaScript, JQuery, Axios, C++, Java, PHP, MySQL, Firebase, MongoDB
 
-* 🌍  I'm based in New York
-* 🖥️  See my portfolio at [Anuoluwapo Oyetibo \[Frontend /Fullstack Developer\]](http://anuoluwaoyetibo-1ba4e.web.app/)
+* 🖥️  See my portfolio at [Anuoluwapo Oyetibo \[Frontend /Fullstack Developer\]](https://anuoluwapo-min-portfolio.vercel.app/home)
 * ✉️  You can contact me at [aoyetibo@gmail.com](mailto:aoyetibo@gmail.com)
 * 🧠  I'm learning Tailwind CSS
 * 🤝  I'm open to collaborating on Any full stack applications, web development projects and much more
