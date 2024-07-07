@@ -10,7 +10,7 @@ Experienced full stack developer proficient in React, Nextjs, TypeScript, JavaSc
 * ✉️  You can contact me at [aoyetibo@gmail.com](mailto:aoyetibo@gmail.com)
 * 🧠  I'm learning Tailwind CSS
 * 🤝  I'm open to collaborating on Any full stack applications, web development projects and much more
-* ⚡  I'm secretly Batman ... so don't tell anyone
+* ⚡  I'm secretly Black Panther ... so don't tell anyone
 
 ### Skills
 
