@@ -56,5 +56,5 @@ Experienced full stack developer proficient in React, Nextjs, TypeScript, JavaSc
 
 <a href="http://www.github.com/aoyetibo557"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aoyetibo557&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/aoyetibo557" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoyetibo557&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/aoyetibo557" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoyetibo557&langs_count=4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
